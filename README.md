@@ -1,25 +1,27 @@
-	JEU DE CONQUÊTES SUR LE THÈME DE MAGIC
+# Jeu de conquête sur le thême de Magic
 Attention il y auras des changements pour que l'on est pas de problème à cause des droits d'auteur (même si ca leurs fait de la pub)
 
-FICHE SIGNALÉTIQUE
+## Fiche signalétique
 Genre : RTS (ralentie) cible : 10-30 ans amateurs du jeu de carte magic ou de ses livres pouvant faire remonter des souvenir au plus vieux d'entre nous (vous pouvez aussi être amateurs de fantaisie)
 plateforme : PC
 
-PITCH
+## Pitch
 vous dirigerait un clan d’orcs (pas les gros poissons) et vous devrait vous développer en construisant différents types de bâtiment afin de vous cacher des attaques des dragons
 puis vous pourrez défendre votre clan, et pour finir vous repousserai les envahisseurs.
 
-SCÉNARIO
+## Scénario
 Le jeu se base sur 2 extension du jeu de carte Magic the gathering (khans of tarkir et dragons of tarkir) dans la première extension cité, une guerre a éclaté (dragons contre orc) les orc ont fini victorieux, ils sont au pouvoirs plus puissant que jamais, les dragons eux sont réduit à néant, mais Sarkhan un magicien très puissant ne voulait pas de ce présent, il remonta le temps pour changer l'issue de la guerre, les dragons se retrouvèrent victorieux… votre but sera de changer se présent pour le faire redevenir ce qu'il devrait être, vous devrez tout d'abord “re”prendre le pouvoir puis éliminer Sarkhan ou bien éliminer l’esprit qui le hante (Ugin un très ancien dragon) pour qu'il ne remonte pas le temps une fois de plus.
 
-CONDITION DE VICTOIRE/DÉFAITE
-Victoire ● Vous devez réussir à réunifiée les orc afin de parvenir à battre les dragons et Sarkhan tout en faisant en sorte que le générale de “l'ancien” présent (Zurgo) redevienne le générale.
-Défaite  ● Vous n’arrivait pas à vaincre les dragons et/ou Sarkhan.
-         ● Vous n'arrivait pas à réunifiée les orcs.
-         ● Votre clan périt (envahisseurs, mutinerie, faim).
-         ● En perdant le générale de “l'ancien” présent.
+## Conditions de Victoire/Défaite
+Victoire :
+- Vous devez réussir à réunifiée les orc afin de parvenir à battre les dragons et Sarkhan tout en faisant en sorte que le générale de “l'ancien” présent (Zurgo) redevienne le générale.
+Défaite :
+- Vous n’arrivait pas à vaincre les dragons et/ou Sarkhan.
+- Vous n'arrivait pas à réunifiée les orcs.
+- Votre clan périt (envahisseurs, mutinerie, faim).
+- En perdant le générale de “l'ancien” présent.
         
-GAMEPLAY
+## Gameplay
 Vous commencerez avec Zurgo, dans ce présent il ne que le sonneur en cas d'attaque, vous devez le protéger coûte que coûte pour qu’il “re”devienne générale
 
 Au début pour se cacher
@@ -48,10 +50,9 @@ USP
 ● de multiples formes de gestion pour gérer votre clan
 ● une multitude de troupes différentes
 
-VOTRE PARTICIPATION
+## Votre participation
 
 Si des passages vous semblent un peu flous, n'hésitez pas à m'en informer .
 
 Merci de m'avoir lu.
-
-                                    Remyl2954
+Remyl2954

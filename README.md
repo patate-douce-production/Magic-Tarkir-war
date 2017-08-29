@@ -8,29 +8,28 @@ Attention ! Des changements auront lieu afin que l'on ait pas de problème à ca
 ## Pitch
 Dans la région de Tarkir, la guerre fait rage entre orcs et dragons mais une seule issue est possible .
 ## Scénario
-Le jeu se base sur les deux extension jumelles du jeu de carte Magic the Gathering "Khans of Tarkir" et "Dragons of Tarkir" . 
+Le jeu ce base sur les deux extension jumelles du jeu de carte Magic the Gathering "Khans of Tarkir" et "Dragons of Tarkir" . 
 Dans la première<!--Felecarp : cette phrase ne devrait elle pas impliquer un dans la seconde ?-->, une guerre a éclaté opposant les dragons contre les orcs . 
 Les orc finirent victorieux .
-Ils sont au pouvoirs plus puissant que jamais . 
-Les dragons eux sont réduit à néant . 
-Mais Sarkhan un magicien très puissant ne voulait pas de ce présent .
-Il remonta le temps pour changer l'issue de la guerre et les dragons devirent victorieux .
+Ils sont au pouvoir, plus puissants que jamais . 
+Les dragons eux sont réduits à néant . 
+Mais Sarkhan, un magicien très puissant qui ne voulait pas de ce présent, remonta le temps pour changer l'issue de la guerre et les dragons devinrent victorieux .
 
 Dans la quête principale, votre but sera de changer ce présent pour le faire redevenir ce qu'il devrait être .
 Vous devrez “re”prendre le pouvoir sur Tarkir puis éliminer Sarkhan ou bien l’esprit qui le hante (Ugin un très ancien dragon), afin de l'empécher de remonter le temps à nouveau .
 ## Conditions de Victoire/Défaite
-Victoire :
-- Vous devez réussir à réunifier les orc afin de parvenir à battre les dragons et Sarkhan .
-Défaite :
-- Votre clan périt (envahisseurs, mutinerie, faim).
-- Vous perdez Zurgo .
-- Vous gagnez, mais Zurgo ne devient pas le général des orks .
+- Victoire :
+   - Vous devez réussir à réunifier les orc afin de parvenir à battre les dragons et Sarkhan .
+- Défaite :
+   - Votre clan périt (envahisseurs, mutinerie, faim).
+   - Vous perdez Zurgo .
+   - Vous gagnez, mais Zurgo ne devient pas le général des orks .
 ## Gameplay
 Vous commencerez avec Zurgo comme héro . 
-Dans ce présent, il n'est que le sonneur en cas d'attaque .
-Vous devez le protéger coûte que coûte pour qu’il “re”devienne le général des orks .
+Dans ce présent, il n'est que le sonneur de cloche en cas d'attaque .
+Vous devez le protéger coûte que coûte afin qu’il “re”devienne le général des orks .
 ### Au début pour se cacher
-Vous aurez besoin de creuser, vous serez très restreint et vous éviterez les activités extérieurs, vous ne pourrez pas avoir de gros(ses) troupes/bâtiments, ou vous pouvez les construires dehors à vos risque et périls
+Vous aurez besoin de creuser, vous serez très restreint et vous éviterez les activités extérieures, vous ne pourrez pas avoir de gros(ses) troupes/bâtiments, ou vous pouvez les construires dehors à vos risque et périls
 ### La défense
 À un certain moment vous devrez construire en dehors de votre abri sous terrain, à ce moment donner zurgo deviendra plus puissant (soldat) il sera votre principal défense mais ne tiendra pas longtemps vous devrez donc vous focaliser sur vos défense (surtout des mur au début) en oubliant tous les problèmes secondaires (faim, mutinerie) il faudra donc faire des provisions. À ce moment là vous débloquerez des trolls qui sont quasiment ingérable mais très puissant, à vous de voir combien en prenez vous!
 ### L'attaque

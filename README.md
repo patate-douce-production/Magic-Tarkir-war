@@ -1,63 +1,47 @@
-# Jeu de conquête sur le thême de Magic
-Attention ! Des changements auront lieu afin que l'on ait pas de problème à cause des droits d'auteur .
+# RTS basé sur un concept de civilisations (si vous avez un meilleur nom dite le svp)
 ## Fiche signalétique
-- Genre : RTS (ralenti)
-- Cible : 10-30 ans amateurs du jeu de carte Magic ou de ses livres pouvant faire remonter des souvenir au plus vieux d'entre nous (vous pouvez aussi être amateurs de fantaisie)
+- Genre : RTS
+- Cible : 10-30 ans amateurs de fantaisie
 - Support : PC
-- Outils de développement : inconnus
+- Outil(s) de développement : C++; librairie SFML
 ## Pitch
-Dans la région de Tarkir, la guerre fait rage entre orcs et dragons mais une seule issue est possible .
+Choisissez une civilisation pour une puissante inter-espèce !
 ## Scénario
-Le jeu ce base sur les deux extension jumelles du jeu de carte Magic the Gathering "Khans of Tarkir" et "Dragons of Tarkir" . 
-Dans la première<!--Felecarp : cette phrase ne devrait elle pas impliquer un dans la seconde ?-->, une guerre a éclaté opposant les dragons contre les orcs . 
-Les orc finirent victorieux .
-Ils sont au pouvoir, plus puissants que jamais . 
-Les dragons eux sont réduits à néant . 
-Mais Sarkhan, un magicien très puissant qui ne voulait pas de ce présent, remonta le temps pour changer l'issue de la guerre et les dragons devinrent victorieux .
+Dans [nom du monde], un puissant dieu, [nom du dieu], voulait créer la vie .
+Seulement, c'était une oeuvre complexe et surtout ses voisins l'avait déjà fait depuis longtemps .
+[nom du dieu] choisit donc d'emprunter le travail de ses collègues (et les créations de leurs créations) et de placer toutes ces créations dans un petit monde propice à la vie avant de partir s'amuser plus loin .
+Toutes ces espèces vivantes étaient trop différentes et trop nombreuse pour vivre paisiblement dans un monde si petit .
 
-Dans la quête principale, votre but sera de changer ce présent pour le faire redevenir ce qu'il devrait être .
-Vous devrez “re”prendre le pouvoir sur Tarkir puis éliminer Sarkhan ou bien l’esprit qui le hante (Ugin un très ancien dragon), afin de l'empécher de remonter le temps à nouveau .
+Si vous avez un meilleur sénario expliquant un petit monde renfermant toute la création n'hésitez pas :) .
 ## Conditions de Victoire/Défaite
+Les conditions de victoires et de défaites s'appliquent aux batailles .
 - Victoire :
-   - Vous devez réussir à réunifier les orc afin de parvenir à battre les dragons et Sarkhan .
+   - Chaque partie a ses conditions de victoire spécifique tel qu'érradiquer une espèce, prendre le contrôle de la carte dans son intégralité ou encore simplement de survivre .
 - Défaite :
-   - Votre clan périt (envahisseurs, mutinerie, faim).
-   - Vous perdez Zurgo .
-   - Vous gagnez, mais Zurgo ne devient pas le général des orks .
+   - Votre civilisation disparait de la carte .
+   - L'objectif principal ne peut plus être rempli (un héro devait survivre mais il est mort)
 ## Gameplay
-Vous commencerez avec Zurgo comme héro . 
-Dans ce présent, il n'est que le sonneur de cloche en cas d'attaque .
-Vous devez le protéger coûte que coûte afin qu’il “re”devienne le général des orks .
-### Au début pour se cacher
-Vous aurez besoin de creuser, vous serez très restreint et vous éviterez les activités extérieures, vous ne pourrez pas avoir de gros(ses) troupes/bâtiments, ou vous pouvez les construires dehors à vos risque et périls
-### La défense
-À un certain moment vous devrez construire en dehors de votre abri sous terrain, à ce moment donner zurgo deviendra plus puissant (soldat) il sera votre principal défense mais ne tiendra pas longtemps vous devrez donc vous focaliser sur vos défense (surtout des mur au début) en oubliant tous les problèmes secondaires (faim, mutinerie) il faudra donc faire des provisions. À ce moment là vous débloquerez des trolls qui sont quasiment ingérable mais très puissant, à vous de voir combien en prenez vous!
-### L'attaque
-Une fois bien installé et que les attaques de dragons ne devienne plus qu'une routine vous pourrez attaquer mais attention, plus vous attaquez plus les dragons vous prendront pour une menace et vous devrez gérer entre unités déployés et unités protégeant votre abri.(Zurgo deviendra lieutenant)
-### Alliance
-À ce moment du jeu les orc commenceront à entendre parler de vous, vous aurez donc des personnages qui viendront demander refuge et vous serviront de main d'oeuvre, des clan vous donneront même leurs terres, mais attention, il y a des tensions entre certains villages orc, ne faite pas alliance avec n'importe qui.(Zurgo deviendra commandant)
-### Conquêtes
-Une fois tous les bases dragons détruites, Sarkhan viendra établir sa base non loin de vous pour mettre fin à ce jeu, vous devrez vous dépêcher de le vaincre (2 moyens : tuez-le ; faite sortir l'esprit d’Ugin grâce à la magie (si vous voulez utiliser le 2ème moyen vous devrez vous orienter magie))(Zurgo deviendra générale)
-### Fin
-Vous aurez à ce moment-là fini la campagne, mais vous pourrez toujours jouer au jeu en vous développant encore et encore.
-### Multijoueur
-Vous pourrez jouer en multijoueur avec les orc et les dragons, ce mode se passera en plein milieu de la guerre pour que les 2 équipes aient leurs chances .
-Tout comme la campagne vous pourrez vous allier mais aussi commercer .
-Tout comme la campagne au début vous serez vulnérables et vous devrez vous cacher .
-Vous pouvez aussi demander refuge dans des bases plus développés .
-Les dragons et les orcs auront des troupes sembllables .
-Le meilleur joueur de chaque équipe obtiendra à un général Zurgo chez les orcs ou bien Kolaghan, Silumgar ou Ojutaï chez les dragons
-(vu qu'il y a plus de choix de généraux avec les dragons ils sont un peu plus faible que Zurgo)<!--Felecarp : drole d'idée-->
+### Campagne
+Une campagne est une histoire évoluant à chaque batailles . 
+Certaine d'entre elles sont interactives, le scénario dépendra de vos choix, des issues et objectifs accomplits lors des affrontements .
 
-Durée du multijoueur : infini<!--Felecarp je ne comprend pas-->
+Les campagnes sont décrites dans leurs fichiers respectifs situés le dossier "campagnes" .
+### Carte
+Les cartes sont des sections de [nom du monde] où peuvent évoluer vos civilisations lors des parties .
+Elles sont en trois dimensions avec un axe nord/sud et un axe ouest/est et différents étages pour les montagnes, unités volantes ou souterraines .
+### Civilisations
+Les civilisations ont chacune différentes troupes, bâtiments, technologies etc.
+Certaines existeront dans le jeu dés l'instalation et d'autre pourront être crées ou téléchargées .
+#### Création
+Pour créer votre civilisation vous aurez besoin d'un éditeur spécifique (que l'on devra créer nous) .
+L'éditeur régulera et calculera la force de chaque civilisation pour qu'elles aient toutes la même force globale .
+Une fois crée, la civilisation sera enregistré dans un dossier commun à tous nos programmes .
+Le jeu proposera alors de jouer avec ou la choisira comme étant votre adversaire lors des parties générés aléatoirement .
 ## USP
-- jeu fidèle aux personnages des extensions "Than of Tarkir" et "Dragons of Tarkir" du jeu de carte Magic
-- longue durée de vie et peu répétitif
-- de multiples formes de gestion pour gérer votre clan<!--Felecarp : pas compris-->
-- grande diversité des troupes
+- éditeur de civilisations public
+- différentes civilations infinies
+- rencontre des différents genres de fiction dans le même jeu
 ## Votre participation
 Si des passages vous semblent un peu flous, n'hésitez pas à m'en informer .
 
 Merci de m'avoir lu.
-
-Remyl2954
